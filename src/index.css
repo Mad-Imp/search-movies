@@ -49,3 +49,7 @@ h4 {
   color: #ff6347;
   margin: 0 auto;
 }
+
+.card .card-image {
+  height: 410px;
+}
